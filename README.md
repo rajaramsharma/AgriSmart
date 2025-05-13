@@ -1,5 +1,38 @@
-# AgriSmart
-AgriSmart is a smart agriculture system using HTML, CSS, JS, PHP, and Python to monitor soil and automate irrigation. It collects real-time data via sensors and ESP32, analyzes it, and helps farmers make better decisions. Team: Rajaram Sharma, Archana Sah, Dharmendra Mandal, Dev Sah, Sharada Chaudhary
+Project Title: AgriSmart – Smart Agriculture Management System
+
+Technologies Used: HTML, CSS, JavaScript, PHP, Python
+
+Team Members:
+
+Rajaram Sharma
+
+Archana Kumari Sah
+
+Dharmendra Kumar Mandal
+
+Sharada Chaudhary
+
+Dev Narayan Sah
+
+Project Description:
+
+AgriSmart is an innovative smart agriculture web application designed to enhance farming efficiency through intelligent automation and real-time data analysis. Developed using HTML, CSS, JavaScript for the front end, and PHP and Python for the backend and sensor data processing, AgriSmart empowers farmers with digital tools for better crop and resource management.
+
+Key Features:
+
+🌾 Real-time Monitoring: Collects and displays live environmental data (e.g., soil moisture, temperature, humidity) from field sensors using Python scripts integrated with ESP32 modules.
+
+💧 Automated Irrigation: Automatically activates irrigation systems based on moisture levels using a web-controlled relay mechanism.
+
+📊 Smart Analytics: Analyzes sensor data using Python to offer recommendations and historical trend insights.
+
+🧑‍🌾 User Dashboard: Clean and responsive UI where farmers can monitor data, control irrigation systems, and receive farming suggestions.
+
+📁 Data Management: PHP and MySQL are used to manage sensor readings, control logs, and historical analytics.
+
+Objective:
+
+The goal of AgriSmart is to bring precision farming to local farmers by combining IoT and web technologies. The system helps reduce water waste, increase crop yield, and reduce manual labor by automating key processes and providing actionable insights.
 
 
 
